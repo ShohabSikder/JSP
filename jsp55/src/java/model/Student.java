@@ -10,17 +10,26 @@ package model;
  */
 public class Student {
     
-    private String id;
+    private int id;
     private String firstName;
     private String lastName;
     private String gender;
     private String subject;
+    private int sequence;
 
-    public String getId() {
+    public int getSequence() {
+        return sequence;
+    }
+
+    public void setSequence(int sequence) {
+        this.sequence = sequence;
+    }
+
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -63,7 +72,7 @@ public class Student {
         this.subject = subject;
     }
 
-    public Student(String id, String firstName, String lastName, String gender, String subject) {
+    public Student(int id, String firstName, String lastName, String gender, String subject) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;

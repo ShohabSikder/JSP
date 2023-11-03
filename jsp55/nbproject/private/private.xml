@@ -3,14 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/G:/JSP/jsp55/web/success.jsp</file>
-            <file>file:/G:/JSP/jsp55/web/addStudent.jsp</file>
-            <file>file:/G:/JSP/jsp55/web/showAllStudent.jsp</file>
-            <file>file:/G:/JSP/jsp55/src/java/dao/StudentDao.java</file>
-            <file>file:/G:/JSP/jsp55/web/addStudentForm.jsp</file>
-            <file>file:/G:/JSP/jsp55/src/java/model/Student.java</file>
-            <file>file:/G:/JSP/jsp55/web/home.jsp</file>
-            <file>file:/G:/JSP/jsp55/web/header.jsp</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/web/addStudentForm.jsp</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/src/java/dao/StudentDao.java</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/src/java/model/Student.java</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/web/showAllStudent.jsp</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/web/addStudent.jsp</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/web/header.jsp</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/web/delete.jsp</file>
+            <file>file:/C:/Users/Shohab%20Sikder/Documents/GitHub/JSP/jsp55/web/editForm.jsp</file>
         </group>
     </open-files>
 </project-private>
