@@ -8,12 +8,12 @@
     <div class="row">
         <div class="col-md-6">
             <label  class="form-label">Full Name</label>
-            <input type="text" class="form-control" id="FullName" name="fullname" placeholder="Full Name">
+            <input type="text" class="form-control" id="FullName" name="fullName" placeholder="Full Name">
         </div>
 
         <div class="col-md-6">
             <label  class="form-label">User Name</label>
-            <input type="text" class="form-control" id="UserName" name="username" placeholder="username">
+            <input type="text" class="form-control" id="UserName" name="userName" placeholder="username">
         </div>
         
         <div class="row mt-3">

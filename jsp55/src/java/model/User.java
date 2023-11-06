@@ -6,16 +6,15 @@ package model;
 
 import java.util.UUID;
 
-/**
- *
- * @author Shohab Sikder
- */
+
 public class User {
+
     private String uid;
     private String fullName;
     private String userName;
     private String password;
     private String email;
+//    private int sequence;
 
     public User() {
     }
@@ -70,10 +69,20 @@ public class User {
         this.email = email;
     }
 
+//    public int getSequence() {
+//        return sequence;
+//    }
+//
+//    public void setSequence(int sequence) {
+//        this.sequence = sequence;
+//    }
+
+
     @Override
     public String toString() {
         return "User{" + "uid=" + uid + ", fullName=" + fullName + ", userName=" + userName + ", password=" + password + ", email=" + email + '}';
     }
+
     
     
 }

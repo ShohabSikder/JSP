@@ -47,7 +47,7 @@ student.setSequence(counter++);
                     <td>${s.getGender()}</td>
                     <td>${s.getSubject()}</td>
                     <td>
-                        <a class="btn btn-primary" href="editForm.jsp?id=${s.getId()}">Edit</a>
+                        <a class="btn btn-primary" href="editForm.jsp?Sid=${s.getId()}">Edit</a>
                         <a  class="btn btn-warning" href="delete.jsp?id=${s.getId()}">Delete</a>
                     </td>
 

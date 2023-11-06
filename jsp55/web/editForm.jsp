@@ -8,7 +8,7 @@
 
 
 <% 
-    String id=request.getParameter("id");
+    String id=request.getParameter("Sid");
     s=StudentDao.getStudentById(Integer.parseInt(id));
 %>
 

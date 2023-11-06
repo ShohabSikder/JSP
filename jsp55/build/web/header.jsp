@@ -28,7 +28,7 @@
           </a>
           <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="userForm.jsp">Add User</a></li>
-              <li><a class="dropdown-item" href="#">View All</a></li>
+              <li><a class="dropdown-item" href="showAllUser.jsp">View All</a></li>
             
           </ul>
         </li>
